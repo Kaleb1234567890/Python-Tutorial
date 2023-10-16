@@ -18,3 +18,5 @@ Commit our changes
 
  ## step 6:
 Merge pull request if satisfied with new code
+
+### That's all it takes to backup your code
